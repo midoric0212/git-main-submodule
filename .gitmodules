@@ -1,0 +1,3 @@
+[submodule "reference/git-sub-submodule"]
+	path = reference/git-sub-submodule
+	url = git@github.com:midoric0212/git-sub-submodule.git
